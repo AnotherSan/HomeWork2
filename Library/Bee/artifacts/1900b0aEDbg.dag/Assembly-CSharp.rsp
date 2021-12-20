@@ -323,7 +323,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Assets/MoveToGoal.cs"
+"Assets/Zombie/MoveToGoal.cs"
 -langversion:8.0
 
 /deterministic
